@@ -1,4 +1,9 @@
 package strategy;
 
-public interface FastMovable {
+public class FastMovable implements  Movable{
+
+    @Override
+    public void move() {
+        System.out.println("Moving fast");
+    }
 }

@@ -1,9 +1,9 @@
 package strategy;
 
-public class FastMovable implements  Movable{
+public class SlowMovable implements Movable {
 
     @Override
     public void move() {
-        System.out.println("Moving fast");
+        System.out.println("Moving slow");
     }
 }

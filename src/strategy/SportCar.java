@@ -1,4 +1,7 @@
 package strategy;
 
-public class SportCar {
+public class SportCar extends Car {
+    public SportCar() {
+        super(new FastMovable());
+    }
 }

@@ -1,6 +1,12 @@
+package strategy;
+
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        Car carSlow  = new Van();
+        Car carFast  = new SportCar();
+
+        carFast.makeMove();
+        carSlow.makeMove();
     }
 }

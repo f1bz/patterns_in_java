@@ -1,4 +1,7 @@
 package strategy;
 
-public class Vab {
+public class Van extends Car {
+    public Van() {
+        super(new SlowMovable());
+    }
 }
