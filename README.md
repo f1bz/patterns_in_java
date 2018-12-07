@@ -1,1 +1,3 @@
-# patterns in java implementations
+# Patterns in java implementation
+
+- Strategy
