@@ -2,34 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61ac509b-8db4-4618-b9ef-781d782f788c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/decorator/BaseDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/cars/Bmw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/cars/Vaz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/decorators/TunedEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/decorators/TunedWheels.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns_in_java/observer/custom/MagazineObserverName.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/patterns_in_java/observer/custom/MagazineObserverName.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns_in_java/observer/custom/MagazineObserverPrice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/patterns_in_java/observer/custom/MagazineObserverPrice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns_in_java/observer/custom/MagazineReleaser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/patterns_in_java/observer/custom/MagazineReleaser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns_in_java/observer/custom/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/patterns_in_java/observer/custom/Main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns_in_java/observer/custom/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/patterns_in_java/observer/custom/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns_in_java/observer/custom/Observable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/patterns_in_java/observer/custom/Observable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns_in_java/observer/custom/Observer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/patterns_in_java/observer/custom/Observer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns_in_java/observer/java/MagazineObserverName.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/patterns_in_java/observer/java/MagazineObserverName.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns_in_java/observer/java/MagazineObserverPrice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/patterns_in_java/observer/java/MagazineObserverPrice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns_in_java/observer/java/MagazineReleaser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/patterns_in_java/observer/java/MagazineReleaser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns_in_java/observer/java/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/patterns_in_java/observer/java/Main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns_in_java/observer/java/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/patterns_in_java/observer/java/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns_in_java/strategy/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/patterns_in_java/strategy/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns_in_java/strategy/FastMovable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/patterns_in_java/strategy/FastMovable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns_in_java/strategy/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/patterns_in_java/strategy/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns_in_java/strategy/Movable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/patterns_in_java/strategy/Movable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns_in_java/strategy/SlowMovable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/patterns_in_java/strategy/SlowMovable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns_in_java/strategy/SportCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/patterns_in_java/strategy/SportCar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns_in_java/strategy/Van.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/patterns_in_java/strategy/Van.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,19 +24,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2935" />
+          <entry key="gitignore" value="14" />
+          <entry key="java" value="2937" />
           <entry key="md" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2935" />
+          <entry key="JAVA" value="2937" />
           <entry key="Markdown" value="9" />
+          <entry key="PLAIN_TEXT" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="JAVA/strategy" value="1" />
+          <entry key="gitignore" value="1" />
           <entry key="iml" value="1" />
           <entry key="java" value="75" />
           <entry key="md" value="1" />
@@ -73,6 +50,7 @@
           <entry key="IDEA_MODULE" value="1" />
           <entry key="JAVA" value="75" />
           <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
           <entry key="UML" value="1" />
         </counts>
       </usages-collector>
@@ -80,14 +58,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/decorator/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+            <state relative-caret-position="321">
+              <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -147,6 +134,7 @@
         <option value="$PROJECT_DIR$/src/decorator/cars/Bmw.java" />
         <option value="$PROJECT_DIR$/src/decorator/decorators/TunedWheels.java" />
         <option value="$PROJECT_DIR$/src/decorator/Main.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -178,17 +166,6 @@
             <path>
               <item name="patterns_in_java" type="b2602c69:ProjectViewProjectNode" />
               <item name="patterns_in_java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="patterns_in_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="patterns_in_java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="patterns_in_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="patterns_in_java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="decorator" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="patterns_in_java" type="b2602c69:ProjectViewProjectNode" />
@@ -230,7 +207,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544377662444" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544378395515" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/decorator" />
   </component>
@@ -353,7 +330,7 @@
       <option name="presentableId" value="Default" />
       <updated>1544189583498</updated>
       <workItem from="1544189592942" duration="12152000" />
-      <workItem from="1544371548505" duration="6077000" />
+      <workItem from="1544371548505" duration="6841000" />
     </task>
     <servers />
   </component>
@@ -363,13 +340,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18229000" />
+    <option name="totallyTimeSpent" value="18993000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19537275" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19537275" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -386,7 +363,7 @@
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
       <window_info anchor="bottom" id="Analysis" order="8" />
       <window_info anchor="bottom" id="Get Gist" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.2987887" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2987887" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32974428" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
@@ -694,11 +671,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/decorator/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        <state relative-caret-position="321">
+          <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
         </state>
       </provider>
     </entry>
