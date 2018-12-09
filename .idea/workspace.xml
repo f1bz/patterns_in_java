@@ -2,8 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61ac509b-8db4-4618-b9ef-781d782f788c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/decorator/BaseDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/cars/Bmw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/cars/Vaz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/decorators/TunedEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/decorators/TunedWheels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns_in_java/observer/custom/MagazineObserverName.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/patterns_in_java/observer/custom/MagazineObserverName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns_in_java/observer/custom/MagazineObserverPrice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/patterns_in_java/observer/custom/MagazineObserverPrice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns_in_java/observer/custom/MagazineReleaser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/patterns_in_java/observer/custom/MagazineReleaser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns_in_java/observer/custom/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/patterns_in_java/observer/custom/Main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns_in_java/observer/custom/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/patterns_in_java/observer/custom/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns_in_java/observer/custom/Observable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/patterns_in_java/observer/custom/Observable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns_in_java/observer/custom/Observer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/patterns_in_java/observer/custom/Observer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns_in_java/observer/java/MagazineObserverName.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/patterns_in_java/observer/java/MagazineObserverName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns_in_java/observer/java/MagazineObserverPrice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/patterns_in_java/observer/java/MagazineObserverPrice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns_in_java/observer/java/MagazineReleaser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/patterns_in_java/observer/java/MagazineReleaser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns_in_java/observer/java/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/patterns_in_java/observer/java/Main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns_in_java/observer/java/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/patterns_in_java/observer/java/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns_in_java/strategy/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/patterns_in_java/strategy/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns_in_java/strategy/FastMovable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/patterns_in_java/strategy/FastMovable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns_in_java/strategy/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/patterns_in_java/strategy/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns_in_java/strategy/Movable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/patterns_in_java/strategy/Movable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns_in_java/strategy/SlowMovable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/patterns_in_java/strategy/SlowMovable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns_in_java/strategy/SportCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/patterns_in_java/strategy/SportCar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns_in_java/strategy/Van.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/patterns_in_java/strategy/Van.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,19 +42,21 @@
     <session id="-1167456512">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.10" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1721" />
+          <entry key="java" value="2935" />
           <entry key="md" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1721" />
+          <entry key="JAVA" value="2935" />
           <entry key="Markdown" value="9" />
         </counts>
       </usages-collector>
@@ -36,14 +64,14 @@
         <counts>
           <entry key="JAVA/strategy" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="43" />
+          <entry key="java" value="75" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="43" />
+          <entry key="JAVA" value="75" />
           <entry key="Markdown" value="1" />
           <entry key="UML" value="1" />
         </counts>
@@ -51,45 +79,12 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/strategy/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="57">
-                <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/observer/java/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/decorator/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/observer/java/MagazineObserverName.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+            <state relative-caret-position="456">
+              <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -136,6 +131,22 @@
         <option value="$PROJECT_DIR$/src/observer/java/Main.java" />
         <option value="$PROJECT_DIR$/src/observer/java/MagazineReleaser.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/tt/Clz.java" />
+        <option value="$PROJECT_DIR$/src/tt/Iterface.java" />
+        <option value="$PROJECT_DIR$/src/tt/Truck.java" />
+        <option value="$PROJECT_DIR$/src/tt/Crone.java" />
+        <option value="$PROJECT_DIR$/src/tt/Clazz.java" />
+        <option value="$PROJECT_DIR$/src/decorator/car/Car.java" />
+        <option value="$PROJECT_DIR$/src/decorator/decorators/TunnedWheels.java" />
+        <option value="$PROJECT_DIR$/src/decorator/decorators/TunnedEngine.java" />
+        <option value="$PROJECT_DIR$/src/decorator/decorators/BaseDecorator.java" />
+        <option value="$PROJECT_DIR$/src/decorator/Car.java" />
+        <option value="$PROJECT_DIR$/src/decorator/BaseDecorator.java" />
+        <option value="$PROJECT_DIR$/src/decorator/decorators/TunedEngine.java" />
+        <option value="$PROJECT_DIR$/src/decorator/cars/Vaz.java" />
+        <option value="$PROJECT_DIR$/src/decorator/cars/Bmw.java" />
+        <option value="$PROJECT_DIR$/src/decorator/decorators/TunedWheels.java" />
+        <option value="$PROJECT_DIR$/src/decorator/Main.java" />
       </list>
     </option>
   </component>
@@ -156,11 +167,11 @@
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -171,18 +182,13 @@
             <path>
               <item name="patterns_in_java" type="b2602c69:ProjectViewProjectNode" />
               <item name="patterns_in_java" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="patterns_in_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="patterns_in_java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="patterns_in_java" type="b2602c69:ProjectViewProjectNode" />
               <item name="patterns_in_java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="strategy" type="462c0819:PsiDirectoryNode" />
+              <item name="decorator" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="patterns_in_java" type="b2602c69:ProjectViewProjectNode" />
@@ -218,16 +224,20 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544203684777" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544377662444" />
     <property name="extract.method.default.visibility" value="private" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/decorator" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="decorator.decorators" />
+      <recent name="tt" />
       <recent name="observer.custom" />
       <recent name="observer" />
       <recent name="strategy" />
@@ -248,7 +258,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="observer.custom.Main" />
       <module name="patterns_in_java" />
@@ -285,6 +295,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="decorator.Main" />
+      <module name="patterns_in_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="decorator.decorators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="All Features in: strategy" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="3" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/strategy" />
@@ -307,9 +330,11 @@
       <item itemvalue="Cucumber java.All Features in: strategy" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
@@ -327,7 +352,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544189583498</updated>
-      <workItem from="1544189592942" duration="6182000" />
+      <workItem from="1544189592942" duration="12152000" />
+      <workItem from="1544371548505" duration="6077000" />
     </task>
     <servers />
   </component>
@@ -337,45 +363,45 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6182000" />
+    <option name="totallyTimeSpent" value="18229000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19280206" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19537275" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" />
-      <window_info anchor="bottom" id="Analysis" />
-      <window_info anchor="bottom" id="Get Gist" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.2987887" />
-      <window_info anchor="bottom" id="Messages" weight="0.32974428" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32166892" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26379544" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Key Promoter X" />
-      <window_info anchor="right" id="UML design tool window" weight="0.50064266" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+      <window_info anchor="bottom" id="Analysis" order="8" />
+      <window_info anchor="bottom" id="Get Gist" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.2987887" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32974428" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Key Promoter X" order="5" />
+      <window_info anchor="right" id="UML design tool window" order="6" weight="0.50064266" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -383,6 +409,20 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>car</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>car.features</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/strategy/Movable.java">
@@ -454,12 +494,12 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0999999999999999" x="219.84598734598723" y="182.8010323010322" />
+          <settings layout="Hierarchic Group" zoom="1.0999999999999999" x="220.0" y="183.0" />
           <SelectedNodes />
           <Categories>
+            <Category>Fields</Category>
             <Category>Methods</Category>
             <Category>Properties</Category>
-            <Category>Fields</Category>
           </Categories>
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
@@ -493,20 +533,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/observer/java/Observable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/observer/java/Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/java/Observable.java" />
+    <entry file="file://$PROJECT_DIR$/src/observer/java/Observer.java" />
     <entry file="file://$PROJECT_DIR$/src/observer/custom/MagazineObserverName.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -562,10 +590,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-133">
           <caret line="131" column="16" selection-start-line="131" selection-start-column="16" selection-end-line="131" selection-end-column="16" />
-          <folding>
-            <element signature="e#3747#3748#0" expanded="true" />
-            <element signature="e#3784#3785#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -586,6 +610,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="76">
+            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/strategy/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -593,13 +627,78 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="57">
-            <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/src/tt/Clz.java" />
+    <entry file="file://$PROJECT_DIR$/src/tt/Iterface.java" />
+    <entry file="file://$PROJECT_DIR$/src/tt/Crone.java" />
+    <entry file="file://$PROJECT_DIR$/src/tt/Truck.java" />
+    <entry file="file://$PROJECT_DIR$/src/tt/Clazz.java" />
+    <entry file="file://$PROJECT_DIR$/src/decorator/cars/Vaz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding>
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/decorator/cars/Bmw.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/decorator/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/decorator/BaseDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/decorator/decorators/TunedEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/decorator/decorators/TunedWheels.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/decorator/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
