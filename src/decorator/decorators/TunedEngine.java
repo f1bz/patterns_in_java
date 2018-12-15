@@ -17,7 +17,7 @@ public class TunedEngine extends BaseDecorator {
     }
 
     @Override
-    public void addFeature(BaseDecorator baseDecorator) {
+    protected void addFeature(BaseDecorator baseDecorator) {
         super.addFeature(baseDecorator);
     }
 

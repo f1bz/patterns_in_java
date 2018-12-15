@@ -2,3 +2,7 @@
 
 - Strategy
 - Observer
+- Fabrics
+  - Abstract fabric
+  - Simple fabric
+  - Fabric method

@@ -12,7 +12,7 @@ public abstract class BaseDecorator extends Car{
     }
 
     @Override
-    public void addFeature(BaseDecorator baseDecorator){
+    protected void addFeature(BaseDecorator baseDecorator){
         car.addFeature(baseDecorator);
     }
 

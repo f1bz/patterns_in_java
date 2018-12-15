@@ -15,6 +15,7 @@ public class MagazineReleaser implements Observable{
         listOfObservers.add(observer);
     }
 
+
     @Override
     public void deleteObserver(Observer observer) {
         listOfObservers.remove(observer);
