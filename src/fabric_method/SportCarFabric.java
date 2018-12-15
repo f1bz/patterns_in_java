@@ -1,8 +1,8 @@
 package fabric_method;
 
-public class SportCarFabric implements CarFabric {
+public class SportCarFabric extends CarFabric {
     @Override
-    public Car makeCar() {
+    public Car createCar() {
         return new SportCar("Sport");
     }
 }

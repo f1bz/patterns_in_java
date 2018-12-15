@@ -1,8 +1,9 @@
 package fabric_method;
 
-public class VainCarFabric implements CarFabric {
+public class VainCarFabric extends CarFabric {
+
     @Override
-    public Car makeCar() {
+    public Car createCar() {
         return new VanCar("Van");
     }
 }
