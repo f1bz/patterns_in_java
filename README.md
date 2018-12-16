@@ -6,3 +6,4 @@
   - Abstract fabric
   - Simple fabric
   - Fabric method
+- Singleton
