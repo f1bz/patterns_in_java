@@ -8,3 +8,6 @@
   - Fabric method
 - Singleton
 - Command
+- Adapter
+- Facade
+- Template Method
