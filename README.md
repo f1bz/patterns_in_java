@@ -12,3 +12,4 @@
 - Facade
 - Template Method
 - Iterator
+- Composite
