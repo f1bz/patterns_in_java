@@ -6,6 +6,9 @@ import java.util.ArrayList;
 import java.util.Iterator;
 
 public class MenuIterator implements Iterator<MenuComponent> {
+
+    //Stack implementation can be added in order to iterate tree of components
+
     private ArrayList<MenuComponent> menuComponents;
     public MenuIterator(ArrayList<MenuComponent> menuComponents) {
         this.menuComponents = menuComponents;
