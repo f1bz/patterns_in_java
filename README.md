@@ -11,3 +11,4 @@
 - Adapter
 - Facade
 - Template Method
+- Iterator
