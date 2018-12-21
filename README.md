@@ -14,3 +14,4 @@
 - Iterator
 - Composite
 - State
+- Proxy
