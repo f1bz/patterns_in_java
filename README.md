@@ -13,3 +13,4 @@
 - Template Method
 - Iterator
 - Composite
+- State
