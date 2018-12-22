@@ -15,3 +15,4 @@
 - Composite
 - State
 - Proxy
+- Prototype
