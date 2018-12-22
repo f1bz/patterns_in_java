@@ -16,3 +16,4 @@
 - State
 - Proxy
 - Prototype
+- Flyweight
