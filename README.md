@@ -17,3 +17,5 @@
 - Proxy
 - Prototype
 - Flyweight
+- Builder
+- Chain Of Responsibilities 
