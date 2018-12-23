@@ -12,6 +12,7 @@
 - Facade
 - Template Method
 - Iterator
+- Decorator
 - Composite
 - State
 - Proxy
@@ -21,3 +22,4 @@
 - Chain Of Responsibilities 
 - Bridge
 - Mediator
+- Memento
