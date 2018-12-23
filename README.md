@@ -19,3 +19,5 @@
 - Flyweight
 - Builder
 - Chain Of Responsibilities 
+- Bridge
+- Mediator
