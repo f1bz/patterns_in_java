@@ -23,3 +23,4 @@
 - Bridge
 - Mediator
 - Memento
+- Visitor
