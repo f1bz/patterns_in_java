@@ -24,3 +24,4 @@
 - Mediator
 - Memento
 - Visitor
+- Double Dispatch
